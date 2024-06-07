@@ -17,6 +17,6 @@ if(velocidade > 80 ):
     print("\n\n")
     print(f"O valor da multa é: R${multa:.2f}")
 else:
-    print(f"Velocidade dentro a permitida, pode prosseguir!")
+    print(f"Velocidade dentro da permitida, pode prosseguir!")
 print("\n\n")
 print("-----"*10)
